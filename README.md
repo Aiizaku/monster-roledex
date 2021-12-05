@@ -1,2 +1,2 @@
 # development
-This is the development environement. 
+This is the development environment. 
